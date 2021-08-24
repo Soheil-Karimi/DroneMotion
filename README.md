@@ -110,7 +110,7 @@ We have successfully created a system that can accurately classify the hand move
 
 
 ### Repository Structure
-- presentations: contains all presentation powerpoints, speech practice, presentation related materials.
+- presentations: contains final paper
 - Movement After Final Adjustment: hand movements after changing the camera angle to bottom-up
 - Movement Before Final Adjustment: hand movements with camera angle in front of the person
 - extra: folder for pictures
